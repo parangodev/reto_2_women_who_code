@@ -26,5 +26,5 @@ Response 24 (4 * 3 * 2 * 1)`
 
 Se te va entregar una función la cual tiene un parámetro de entrada numérico, debes encontrar el factorial con recursividad, el resultado debe ser un número entero calculado
 
-## ¡¡NOS VEMOS EN EL RETO NÚMERO 2 PARA QUE VER EN QUE RESULTA ESTA FIESTA!! 
+## ¡¡NOS VEMOS EN EL RETO NÚMERO 3 PARA QUE VER EN QUE RESULTA ESTA FIESTA!! 
 # ¡¡DIVIÉRTANSE!!
